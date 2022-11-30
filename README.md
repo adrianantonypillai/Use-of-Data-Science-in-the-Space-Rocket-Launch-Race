@@ -3,9 +3,9 @@ Coursera - IBM Data Science Professional Certificate - Final Capstone Project <b
 In this project we predict if the next launch of Falcon 9 SpaceX program will have a successful first stage <br>
 landing or not. We follow a set of Data Science Methodology principles and summarise the results in a presentation <br>
 format.<br>
-<span style="color: blue">Please Read Project ReadMe </span> **Describes the Capstone Data Science Final Projct in detail** <br>
+@@Please Read Project ReadMe@@  **Describes the Capstone Data Science Final Projct in detail** <br>
 This repository contains the following files that highlight specific datascience methodology principle : <br>
-(i) **SpaceX Data Collection API** Jupyter Note book File: **Data Collection Methodology using API Interface** <br>
+(i) ### **SpaceX Data Collection API** Jupyter Note book File: **Data Collection Methodology using API Interface** <br>
 (ii) **Data Collection Using Web Scraping** Jupyter Note book File: **Data Collection Methodology using Web Scraping Methodology**<br>
 (iii) **Data Wrangling and EDA** Jupyter Note book File: **Data Wrangling Methodology using Web Scraping** <br>
 (iv) **EDA with Data Visualisation** Jupyter Note book File: **Exploratory Data Analytics Methodology using visualisation Tools** <br>
