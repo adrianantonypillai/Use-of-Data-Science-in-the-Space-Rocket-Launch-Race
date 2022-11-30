@@ -1,5 +1,5 @@
 ## Use-of-Data-Science-in-the-Space-Rocket-Launch-Race
-Coursera - IBM Data Science Professional Certificate - Final Capstone Project <br>
+### Coursera - IBM Data Science Professional Certificate - Final Capstone Project <br>
 In this project we predict if the next launch of Falcon 9 SpaceX program will have a successful first stage <br>
 landing or not. We follow a set of Data Science Methodology principles and summarise the results in a presentation <br>
 format.<br>
