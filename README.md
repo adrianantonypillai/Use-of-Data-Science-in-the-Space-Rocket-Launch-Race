@@ -6,8 +6,10 @@ format.<br>
 @@Please Read Project ReadMe@@  **Describes the Capstone Data Science Final Projct in detail** <br>
 This repository contains the following files that highlight specific datascience methodology principle : <br>
 '''diff
+ +space
+'''
 
-(i) **SpaceX Data Collection API** '''diff Jupyter Note book File: **Data Collection Methodology using API Interface** <br>
+(i) + **SpaceX Data Collection API** Jupyter Note book File: **Data Collection Methodology using API Interface** <br>
 (ii) **Data Collection Using Web Scraping** Jupyter Note book File: **Data Collection Methodology using Web Scraping Methodology**<br>
 (iii) **Data Wrangling and EDA** Jupyter Note book File: **Data Wrangling Methodology using Web Scraping** <br>
 (iv) **EDA with Data Visualisation** Jupyter Note book File: **Exploratory Data Analytics Methodology using visualisation Tools** <br>
