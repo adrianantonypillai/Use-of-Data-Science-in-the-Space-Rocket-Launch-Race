@@ -4,7 +4,7 @@ In this project we predict if the next launch of Falcon 9 SpaceX program will ha
 landing or not. We follow a set of Data Science Methodology principles and summarise the results in a presentation <br>
 format.<br><br>
 **Project ReadMe** <br> Jupyter Note book File: Describes the Capstone Data Science Final Projct in detail <br><br>
-This repository contains the following files that highlight specific data science methodology principle : <br>
+This repository contains the following files that highlight specific data science methodology principle : <br><br>
 **SpaceX Data Collection API** <br>Jupyter Note book File: Data Collection Methodology using API Interface <br><br>
 **Data Collection Using Web Scraping** <br> Jupyter Note book File: Data Collection Methodology using Web Scraping Methodology <br><br>
 **Data Wrangling and EDA** <br> Jupyter Note book File: Data Wrangling Methodology using Web Scraping <br><br>
